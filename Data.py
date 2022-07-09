@@ -70,5 +70,5 @@ Framework : [Pyrogram](docs.pyrogram.org)
 
 Language : [Python](www.python.org)
 
-Developer : @KGF_OFFICIAL
+Developer : [ZAHID](https://t.me/KGN_OFFICIAL)
     """
